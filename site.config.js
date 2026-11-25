@@ -2,5 +2,5 @@
 // WhatsApp: número completo com país e DDD, somente dígitos.
 window.ICARUS_CONFIG = Object.freeze({
   contactEmail: 'icarusroc10@gmail.com',
-  whatsapp: '',
+  whatsapp: '5519990397368',
 });
